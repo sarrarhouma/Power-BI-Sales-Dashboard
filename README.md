@@ -44,7 +44,7 @@ This Power BI project provides an interactive dashboard to analyze sales data, o
 - Enhancing customer segmentation for personalized marketing.
 
 ## Author
-- **[Your Name]**
+- **Sarra RHOUMA**
 
 ## License
 This project is licensed under the MIT License.
